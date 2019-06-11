@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "901664952910",
+    "firebase_url": "https://megaphone-428b2.firebaseio.com",
+    "project_id": "megaphone-428b2",
+    "storage_bucket": "megaphone-428b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901664952910:android:cac5d61fb92b61e0",
+        "android_client_info": {
+          "package_name": "com.kit.megaphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901664952910-b7ruo7gvki2rut9qb4qd1r6eagtk6do1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kit.megaphone",
+            "certificate_hash": "30d61d55b04928ac64bbd75fb00f2743db70a033"
+          }
+        },
+        {
+          "client_id": "901664952910-t762qri919s7rgv1tmli1uosubh8k1ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kit.megaphone",
+            "certificate_hash": "560bdec97d9c3a8ee98a0c995e268fadcde510cb"
+          }
+        },
+        {
+          "client_id": "901664952910-h8f78a34aarkj7m89a53phh9s6dd5d0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZLttNOvPGYh5N_bHF3hsDXn09pNaj6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901664952910-h8f78a34aarkj7m89a53phh9s6dd5d0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

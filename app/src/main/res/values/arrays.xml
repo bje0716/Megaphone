@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topic">
+        <item>분류</item>
+        <item>생활</item>
+        <item>정치</item>
+        <item>문화</item>
+        <item>경제</item>
+        <item>IT</item>
+        <item>스포츠</item>
+    </string-array>
+</resources>
